@@ -10,5 +10,5 @@ Using yolov8l to detect the car class and use the 'sort' tracking algorithm to t
 * `car_counting.py`: main code
 * `sort.py`: tracking algorithm
 
-## Referance
+## Reference
 * <https://www.youtube.com/watch?v=WgPbbWmnXJ8&t=8287s>
